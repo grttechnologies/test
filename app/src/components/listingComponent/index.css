@@ -1,0 +1,13 @@
+.listContainer {
+    overflow-y: scroll;
+    height: calc(100vh - 310px);
+}
+
+.textStyle{
+    cursor: pointer;
+}
+
+.strikeText{
+    text-decoration: line-through;
+    text-decoration-color:red
+}
